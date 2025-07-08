@@ -28,7 +28,7 @@ meta:
 
 pubs:
   sources: ["packs/core-pubs.json"]
-  exclude: ["P_Stimuli", "P_Sample_RepresentativenessRelevance", "P_Sample_Representative", "P_Sample_Representative_Details"]
+  exclude: ["P_Stimuli", "P_Sample_RepresentativenessRelevance", "P_Sample_Representative", "P_Sample_Representative_Details", "P_IndependentVerification"]
   config:
     min_indicators_warning_threshold: 0
 
